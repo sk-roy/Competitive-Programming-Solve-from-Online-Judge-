@@ -1,8 +1,8 @@
-   ----Problem Solved From Different Online Judge ----
+   # ----Problem Solved From Different Online Judge ----
    
    Online Judge
-   # UVA
-   # LightOJ
-   # SPOJ
-   # HackerRank
-   # Timus
+   * UVA
+   @ LightOJ
+   ! SPOJ
+   $ HackerRank
+   % Timus
